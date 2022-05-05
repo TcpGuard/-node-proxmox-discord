@@ -1,2 +1,2 @@
 # -node-proxmox-discord
-js file to send commands over discord to proxmox server
+Node js file to send commands over discord channel to proxmox server
